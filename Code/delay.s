@@ -1,3 +1,14 @@
+//@@ Instituto Tecnologico de Tijuana
+//@@ Depto de Sistemas y Computación
+//@@ Ing.En Sistemas Computacionales
+
+//@@ Autor :Lopez Quiroz Manuel Antonio @manuels12
+//@@ Repositorio: https://github.com/manuels12/Conclusion3.5
+
+
+//@ Objetivo del programa :
+# Pausar el programa usando las funciones sleep () / usleep () C
+
 @ delayExample.s
 @ D. Thiebaut
 @ outputs "Hello World!" 10 times with 1 sec
