@@ -1,3 +1,15 @@
+//@@ Instituto Tecnologico de Tijuana
+//@@ Depto de Sistemas y Computación
+//@@ Ing.En Sistemas Computacionales
+
+//@@ Autor : Lopez Quiroz Manuel Antonio @manuels12
+//@@ Repositorio: https://github.com/manuels12/Conclusion3.5
+
+
+//@ Objetivo del programa :
+
+//@ Ejemplo muy sencillo  del uso del stack de la cpu.
+
 .global main
 
 main:
