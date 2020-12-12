@@ -1,3 +1,14 @@
+//@@ Instituto Tecnologico de Tijuana
+//@@ Depto de Sistemas y Computación
+//@@ Ing.En Sistemas Computacionales
+
+//@@ Autor : Lopez Quiroz Manuel Antonio @manuels12
+//@@ Repositorio: https://github.com/manuels12/Conclusion3.5
+
+
+//@ Objetivo del programa :
+# Uso de la función C scanf () para la entrada del usuario
+
 @ scanfExample1.s
 @ D. Thiebaut
 @ A simple example illustrating how one
