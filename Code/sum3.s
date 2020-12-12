@@ -1,3 +1,14 @@
+//@@ Instituto Tecnologico de Tijuana
+//@@ Depto de Sistemas y Computación
+//@@ Ing.En Sistemas Computacionales
+
+//@@ Autor : Lopez Quiroz Manuel Antonio @manuels12
+//@@ Repositorio: https://github.com/manuels12/Conclusion3.5
+
+
+//@ Objetivo del programa :
+//@ Pasar parámetros por valor
+
 @  sum3.s
 @  D. Thiebaut
 @  Illustrates how to pass 2 ints by value
