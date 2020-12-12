@@ -1,3 +1,14 @@
+//@@ Instituto Tecnologico de Tijuana
+//@@ Depto de Sistemas y Computación
+//@@ Ing.En Sistemas Computacionales
+
+//@@ Autor : Lopez Quiroz Manuel Antonio @manuels12
+//@@ Repositorio: https://github.com/manuels12/Conclusion3.5
+
+
+//@ Objetivo del programa :
+#Aritmética con variables enteras (versión 2)
+
 @   sum2.s
 @   D. Thiebaut
 @   add 2 variables together and print the result.
